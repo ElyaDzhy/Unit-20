@@ -57,4 +57,7 @@
 
 .flexItem {
   /* align-self */
+  /* order(0 by default) 
+  as smaller the order, as closer you will be to the start of the axis
+  */
 }
